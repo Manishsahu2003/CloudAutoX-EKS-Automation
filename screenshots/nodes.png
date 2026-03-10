@@ -1,1 +1,10 @@
-
+CloudAutoX-EKS-Automation
+│
+├── ansible/
+├── kubernetes/
+├── screenshots/
+│   ├── nodes.png
+│   ├── pods.png
+│   ├── service.png
+│   └── nginx-page.png
+└── README.md
